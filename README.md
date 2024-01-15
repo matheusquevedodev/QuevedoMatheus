@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 Aqui estão algumas idéias para você começar:
 
 - 🔭 Atualmente estou trabalhando em Java com SpringBoot e React.
+  
 - 🌱 Atualmente estou aprendendo Java com SpringBoot e React. <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
   
 - 👯 Estou procurando colaborar em ...
