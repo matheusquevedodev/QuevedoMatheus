@@ -1,18 +1,9 @@
-# Hey there!!! Thanks for your visit! 👋
-# Olá, me chamo Matheus Quevedo!
+### Hey there!!! Thanks for your visit! Olá, me chamo Matheus Quevedo!
 
-**QuevedoMatheus/QuevedoMatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Aqui estão algumas idéias para você começar:
-
+- 🔭 Formado no Bacharelado Interdisciplinar em Ciência e Tecnologia-UFBA.
+- 🔭 Aluno do Bacharelado em Sistema de Informação-UFBA.
 - 🔭 Atualmente estou trabalhando em Java com SpringBoot e React.
-  
-- 🌱 Atualmente estou aprendendo Java com SpringBoot e React. <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-  
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
+- 🌱 Atualmente estou aprendendo Java com SpringBoot e React. 
 - 📫 Como entrar em contato comigo: [...](https://www.linkedin.com/in/matheus-quevedo/)https://www.linkedin.com/in/matheus-quevedo/
 - 😄 Pronomes: Ele/Dele
 
