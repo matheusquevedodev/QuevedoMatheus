@@ -2,7 +2,7 @@
 
 - 🔭 Formado no Bacharelado Interdisciplinar em Ciência e Tecnologia-UFBA.
 - 🔭 Aluno do Bacharelado em Sistema de Informação-UFBA.
-- 🔭 Atualmente estou trabalhando em Java com SpringBoot e React.
+- 🔭 Estagiário de Desenvolvimento Web na STI-UFBA
 - 🌱 Atualmente estou aprendendo Java com SpringBoot e React. 
 - 📫 Como entrar em contato comigo: [...](https://www.linkedin.com/in/matheus-quevedo/)https://www.linkedin.com/in/matheus-quevedo/
 - 😄 Pronomes: Ele/Dele
